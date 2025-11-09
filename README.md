@@ -149,9 +149,10 @@ This initiative encouraged interdisciplinary research capacity among students an
 The Daily Campus. (2025, November 11). *মাভাবিপ্রবির ক্রিমিনোলজি এন্ড পুলিশ সায়েন্স বিভাগে গবেষণা কর্মশালা — কোয়ালিটেটিভ এন্ড কোয়ান্টিটেটিভ ডাটা এনালাইসিস.* Retrieved from [https://thedailycampus.com/engineering-university/128453/](https://thedailycampus.com/engineering-university/128453/)
 
 ---
-** More Activities: **
-Appendix 1. Career Club SDGs aligned activities: https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026/blob/main/Community%20Activities/SDG%20MBSTU%20Career%20Club%20Profile_compressed.pdf 
-Appendix 2. Come for Road Child SDGs aligned activities: https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026/blob/main/Community%20Activities/CRC-MBSTU-and-the-SDGs-Working-for-a-Sustainable-Future.pdf 
+## 📂 More Activities
+
+📌 Appendix 1: Career Club SDGs-aligned activities – 📄 View PDF [https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026/blob/main/Community%20Activities/SDG%20MBSTU%20Career%20Club%20Profile_compressed.pdf]
+📌 Appendix 2: Come for Road Child (CRC) SDGs-aligned activities – 📄 View PDF [https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026/blob/main/Community%20Activities/CRC-MBSTU-and-the-SDGs-Working-for-a-Sustainable-Future.pdf]
 ---
 
 ## 🌍 SDG Alignment Summary
