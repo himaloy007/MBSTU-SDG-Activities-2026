@@ -1,6 +1,11 @@
+Perfect 👍 — here’s the **fully updated and integrated README file**, formatted consistently, clearly sectioned, and aligned with your earlier structure (narrative + references + SDG summary).
+
+---
+
 # MBSTU-SDG-Activities-2026
 
-This repository documents various initiatives and activities at **Mawlana Bhashani Science and Technology University (MBSTU)** that align with the **United Nations Sustainable Development Goals (SDGs)**. These activities reflect the university’s dedication to education, research, innovation, inclusiveness, and community well-being.
+This repository documents various initiatives and activities at **Mawlana Bhashani Science and Technology University (MBSTU)** that align with the **United Nations Sustainable Development Goals (SDGs)**.
+These activities demonstrate the university’s commitment to education, research, innovation, inclusiveness, and community well-being.
 
 ---
 
@@ -13,10 +18,10 @@ The **MBSTU Cyber Security Club** has been at the forefront of promoting cyber a
 The club successfully organized the event **“Road to Cyber Security with Ostad”**, in collaboration with **Ostad**, **MBSTU Photographic Society**, and **MBSTU Career Club**.
 The initiative focused on empowering students with essential cybersecurity knowledge and fostering a culture of responsible digital engagement.
 
-**Reference:**
-MBSTU Cyber Security Club. (2025, October 29). *Road to Cyber Security with Ostad — Collaboration Highlights*. Facebook. Retrieved from [https://www.facebook.com/profile.php?id=61567679759219](https://www.facebook.com/profile.php?id=61567679759219)
+**References:**
 
-News24BD. (2025, October 29). *মাভাবিপ্রবিতে সাইবার নিরাপত্তা সচেতনতা মাস ২০২৫ উদযাপন*. Retrieved from [https://news24bd.net/?p=15778](https://news24bd.net/?p=15778)
+* MBSTU Cyber Security Club. (2025, October 29). *Road to Cyber Security with Ostad — Collaboration Highlights*. Facebook. Retrieved from [https://www.facebook.com/profile.php?id=61567679759219](https://www.facebook.com/profile.php?id=61567679759219)
+* News24BD. (2025, October 29). *মাভাবিপ্রবিতে সাইবার নিরাপত্তা সচেতনতা মাস ২০২৫ উদযাপন*. Retrieved from [https://news24bd.net/?p=15778](https://news24bd.net/?p=15778)
 
 ---
 
@@ -29,21 +34,21 @@ The event was organized by the MBSTU Cyber Security Club in collaboration with t
 
 * MBSTU Cyber Security Club. (2025, January 18). *MBSTU Cyber Security Expo 2025 Highlights*. Facebook. Retrieved from [https://www.facebook.com/share/p/16TzhbPqcX/](https://www.facebook.com/share/p/16TzhbPqcX/)
 * Jaijaidin. (2025, January 18). *মাভাবিপ্রবিতে সাইবার সিকিউরিটি এক্সপো-২০২৫ অনুষ্ঠিত*. Retrieved from [https://www.jaijaidinbd.com/education/523904](https://www.jaijaidinbd.com/education/523904)
+* Daily Inqilab. (2025, October 29). *মাভাবিপ্রবিতে সাইবার নিরাপত্তা সচেতনতা মাস ২০২৫ উদযাপন ও “রোড টু সাইবার সিকিউরিটি” সেমিনার অনুষ্ঠিত*. Retrieved from [https://dailyinqilab.com/campus/news/821787](https://dailyinqilab.com/campus/news/821787)
 
 ---
 
 ## 🩸 Bandhan, MBSTU Unit – Blood Grouping & Awareness Program
 
-In celebration of the **26th Founding Anniversary of MBSTU**, **Bandhan, MBSTU Unit** organized a **Free Blood Grouping Camp** as part of the university day rally.
+In celebration of the **26th Founding Anniversary of MBSTU**, **Bandhan, MBSTU Unit** organized a **Free Blood Grouping Camp** as part of the University Day rally.
 A total of **64 participants** benefited from this free health initiative, which aimed to raise awareness about blood donation and community health.
 
-**References:**
-
-* Bandhan MBSTU Unit. (2025, October 12). *Free Blood Grouping Program on MBSTU University Day*. Facebook. Retrieved from [https://www.facebook.com/share/p/1Cjdf3Hpky/](https://www.facebook.com/share/p/1Cjdf3Hpky/)
+**Reference:**
+Bandhan MBSTU Unit. (2025, October 12). *Free Blood Grouping Program on MBSTU University Day*. Facebook. Retrieved from [https://www.facebook.com/share/p/1Cjdf3Hpky/](https://www.facebook.com/share/p/1Cjdf3Hpky/)
 
 ---
 
-## 🐾 Animal Welfare and Rescue Society x MBSTU Career Club
+## 🐾 Animal Welfare and Rescue Society × MBSTU Career Club
 
 On **October 20, 2025**, the **Animal Welfare and Rescue Society** and **MBSTU Career Club**, with media support from the **MBSTU Photographic Society**, jointly organized an **Animal Welfare Vaccination Camp** at the university campus.
 More than **25 campus dogs and cats** received free rabies vaccinations. The initiative emphasized compassion, responsibility, and creating a safer campus environment for all living beings.
@@ -63,16 +68,68 @@ Bahanno News. (2025, October 20). *মাভাবিপ্রবিতে ব�
 
 ---
 
-## 🌍 SDG Alignment Summary
+## 🎓 Institutional Quality Assurance Cell (IQAC) – Workshops and Training
 
-These activities collectively contribute to the following **United Nations Sustainable Development Goals (SDGs):**
+MBSTU’s **Institutional Quality Assurance Cell (IQAC)** organized a series of capacity-building workshops to strengthen the university’s commitment to **Outcome-Based Education (OBE)** and continuous improvement.
 
-* **SDG 3 – Good Health and Well-being:** Promoting public health and safety through blood donation and animal vaccination programs.
-* **SDG 4 – Quality Education:** Conducting workshops and training for skill development and language preservation.
-* **SDG 9 – Industry, Innovation and Infrastructure:** Encouraging technological innovation and cybersecurity awareness.
-* **SDG 15 – Life on Land:** Supporting animal welfare and biodiversity through humane initiatives.
-* **SDG 17 – Partnerships for the Goals:** Strengthening collaborations between university clubs, departments, and external partners.
+### 1. *Implementation of OBE Curriculum: Continuous Improvement and Associated Challenges*
+
+Two-day workshop held on **September 21–23, 2025**, at the IQAC Conference Room.
+**Chief Guest:** Professor Dr. Md. Anwarul Azim Akhand, Vice-Chancellor, MBSTU.
+**Reference:** [Tangail News BD](https://www.tangailnewsbd.com/2025/09/21/মাভাবিপ্রবিতে-ওবিই-কারিক/)
+
+### 2. *A New Approach in Teaching-Learning at MBSTU*
+
+Workshop on innovative teaching methods held on **February 4, 2024**, at IQAC Conference Room.
+**Reference:** [Jaijaidin BD](https://www.jaijaidinbd.com/education/437459)
+
+### 3. *Financial Management in Public Sector: Focus on University Administration*
+
+Two-day training for MBSTU officials, organized on **June 27, 2025**, by IQAC at the BGE Department Seminar Room.
+**Reference:** [Daily Apandesh](https://www.dailyapandesh.com/education/news/36635)
+
+### 4. *Workshop on Research Skills: Qualitative and Quantitative Data Analysis*
+
+Organized by the **Department of Criminology and Police Science** on **November 11, 2025**.
+**Reference:** [The Daily Campus](https://thedailycampus.com/engineering-university/128453/মাভাবিপ্রবির-ক্রিমিনোলজি-এন্ড-পুলিশ-সায়েন্স-বিভাগে-গবেষণা-কর্মশালা-)
+
+### 5. *Faculty Training on Pedagogical and Administrative Skills*
+
+Faculty development workshop emphasizing teaching and administrative excellence.
+**Reference:** [Bonik Barta](https://www.bonikbarta.com/bangladesh/ugtKElQrKQnhTTph)
 
 ---
 
-Would you like me to include a **"Future Initiatives"** section (e.g., upcoming cybersecurity workshops or sustainability drives) to make the README forward-looking for 2026?
+## 🧠 Mental Health and Well-being Seminars
+
+### 1. *এত হাসি কোথায় গেলো! — Seminar on Mental Health and Emotional Well-being*
+
+Organized by **AloRon Club** on **December 7, 2025**, promoting mental health and stress management among students.
+**Reference:** [Sarabangla](https://sarabangla.net/news/post-1007644/)
+
+### 2. *Suicide Prevention and Mental Health Awareness Seminar*
+
+Jointly organized by **Reader Zone**, **Sochchar Students Network (MBSTU Chapter)**, and **Deshbandhu Group** on **May 21, 2025**.
+**Reference:** [Dailynagoriksangbad](https://www.dailynagoriksangbad.com/6641)
+
+---
+
+## 🌍 SDG Alignment Summary
+
+These initiatives collectively contribute to the following **United Nations Sustainable Development Goals (SDGs):**
+
+* **SDG 3 – Good Health and Well-being:** Promoting physical and mental health through blood donation, animal welfare, and mental health seminars.
+* **SDG 4 – Quality Education:** Conducting academic and professional development workshops for faculty, staff, and students.
+* **SDG 9 – Industry, Innovation, and Infrastructure:** Advancing cybersecurity education and technological innovation.
+* **SDG 10 – Reduced Inequalities:** Fostering inclusiveness and equitable access to knowledge through open workshops.
+* **SDG 15 – Life on Land:** Advocating for animal welfare and environmental harmony.
+* **SDG 17 – Partnerships for the Goals:** Strengthening collaborations between clubs, departments, and external partners.
+
+---
+
+**Last Updated:** November 2025
+**Maintained by:** MBSTU Quality Review and Ranking Committee (QRRC)
+
+---
+
+Would you like me to add a **“Table of Contents”** (with markdown anchor links for each section) to make navigation easier in GitHub?
