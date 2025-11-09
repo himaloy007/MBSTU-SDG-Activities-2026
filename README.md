@@ -1,5 +1,3 @@
-Perfect 👍 — here’s the **fully updated and integrated README file**, formatted consistently, clearly sectioned, and aligned with your earlier structure (narrative + references + SDG summary).
-
 ---
 
 # MBSTU-SDG-Activities-2026
