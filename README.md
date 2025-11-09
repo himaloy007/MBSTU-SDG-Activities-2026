@@ -154,6 +154,7 @@ The Daily Campus. (2025, November 11). *মাভাবিপ্রবির ক
 📌 Appendix 1: Career Club SDGs-aligned activities – 📄 View PDF [https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026/blob/main/Community%20Activities/SDG%20MBSTU%20Career%20Club%20Profile_compressed.pdf]
 
 📌 Appendix 2: Come for Road Child (CRC) SDGs-aligned activities – 📄 View PDF [https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026/blob/main/Community%20Activities/CRC-MBSTU-and-the-SDGs-Working-for-a-Sustainable-Future.pdf]
+
 ---
 
 ## 🌍 SDG Alignment Summary
