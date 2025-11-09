@@ -11,7 +11,7 @@ These activities reflect the university’s dedication to education, research, i
 The Digital Awareness Bootcamp for Females was held on October 30, 2025, at the CSE Lab, Academic Building-03, MBSTU. Organized by the MBSTU Career Club in collaboration with IQAC, MBSTU, the event focused on promoting SDG 5: Gender Equality by empowering young women with essential digital skills. Students from Santosh Islami University Girls' High School participated, gaining hands-on exposure to digital tools and resources aimed at bridging the gender gap in technology. The session provided a platform to enhance digital literacy and encourage female participation in the digital economy. A recording of the event is available here.
 
 Reference:
-MBSTU Career Club & IQAC. (2025, October 30). Digital Awareness Bootcamp for Females. Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh. [Video]. YouTube. https://youtu.be/r6UwZd3cheU
+* MBSTU Career Club & IQAC. (2025, October 30). Digital Awareness Bootcamp for Females. Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh. [Video]. YouTube. https://youtu.be/r6UwZd3cheU
 ---
 
 ## 🛡️ MBSTU Cyber Security Club
