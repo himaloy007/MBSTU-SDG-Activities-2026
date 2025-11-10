@@ -1,12 +1,14 @@
 ---
 
-# 📘 MBSTU-SDG-Activities-2026
+# 📘 MBSTU-SDG-Activities-2025
 
 This repository documents various initiatives and activities at **Mawlana Bhashani Science and Technology University (MBSTU)** that align with the **United Nations Sustainable Development Goals (SDGs)**.
 These activities reflect the university’s dedication to education, research, innovation, inclusiveness, and community well-being.
 
 ---
 ## 🎓 Digital Awareness Bootcamp for Females
+
+### 1. The Digital Awareness Bootcamp for Females** by MBSTU Career Club 
 
 The Digital Awareness Bootcamp for Females was held on October 30, 2025, at the CSE Lab, Academic Building-03, MBSTU. Organized by the MBSTU Career Club in collaboration with IQAC, MBSTU, the event focused on promoting SDG 5: Gender Equality by empowering young women with essential digital skills. Students from Santosh Islami University Girls' High School participated, gaining hands-on exposure to digital tools and resources aimed at bridging the gender gap in technology. The session provided a platform to enhance digital literacy and encourage female participation in the digital economy. A recording of the event is available here.
 
@@ -147,6 +149,13 @@ This initiative encouraged interdisciplinary research capacity among students an
 
 **Reference:**
 The Daily Campus. (2025, November 11). *মাভাবিপ্রবির ক্রিমিনোলজি এন্ড পুলিশ সায়েন্স বিভাগে গবেষণা কর্মশালা — কোয়ালিটেটিভ এন্ড কোয়ান্টিটেটিভ ডাটা এনালাইসিস.* Retrieved from [https://thedailycampus.com/engineering-university/128453/](https://thedailycampus.com/engineering-university/128453/)
+
+---
+## 📂 More Activities
+
+📌 Appendix 1: Career Club SDGs-aligned activities – 📄 View PDF [https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026/blob/main/Community%20Activities/SDG%20MBSTU%20Career%20Club%20Profile_compressed.pdf]
+
+📌 Appendix 2: Come for Road Child (CRC) SDGs-aligned activities – 📄 View PDF [https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026/blob/main/Community%20Activities/CRC-MBSTU-and-the-SDGs-Working-for-a-Sustainable-Future.pdf]
 
 ---
 
