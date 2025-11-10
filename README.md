@@ -1,6 +1,6 @@
 ---
 
-# 📘 MBSTU-SDG-Activities-2026
+# 📘 MBSTU-SDG-Activities-2025
 
 This repository documents various initiatives and activities at **Mawlana Bhashani Science and Technology University (MBSTU)** that align with the **United Nations Sustainable Development Goals (SDGs)**.
 These activities reflect the university’s dedication to education, research, innovation, inclusiveness, and community well-being.
