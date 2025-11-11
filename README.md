@@ -1,8 +1,3 @@
----
-Visit MBSTU Website: http://sdg.mbstu.ac.bd
-Alternative Deployment (Secure): https://rahmanziaur.github.io/
----
-
 ### 🌐 Visit MBSTU SDG Website
 - **Official Website:** [http://sdg.mbstu.ac.bd](http://sdg.mbstu.ac.bd)  
 - **Mirror 1 (Secure):** [https://rahmanziaur.github.io/](https://rahmanziaur.github.io/)
