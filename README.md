@@ -1,4 +1,7 @@
 ---
+Visit MBSTU Websit: http://sdg.mbstu.ac.bd
+Alternative Deployment (Secure): https://rahmanziaur.github.io/
+---
 
 # 📘 MBSTU-SDG-Activities-2025
 
