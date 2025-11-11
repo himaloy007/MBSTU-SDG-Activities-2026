@@ -1,5 +1,5 @@
 ---
-Visit MBSTU Websit: http://sdg.mbstu.ac.bd
+Visit MBSTU Website: http://sdg.mbstu.ac.bd
 Alternative Deployment (Secure): https://rahmanziaur.github.io/
 ---
 
