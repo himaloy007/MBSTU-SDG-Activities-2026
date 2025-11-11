@@ -1,7 +1,7 @@
 ### 🌐 Visit MBSTU SDG Website
 - **Official Website:** [http://sdg.mbstu.ac.bd](http://sdg.mbstu.ac.bd)  
 - **Mirror 1 (Secure):** [https://rahmanziaur.github.io/](https://rahmanziaur.github.io/)
-- **Mirror 2 (Secure – MBSTU SDG Site on GitHub Repository):** [MBSTU SDG](https://github.com/rahmanziaur/MBSTU-SDG-Activities-2026)
+- **Mirror 2 (Secure – MBSTU SDG Site on GitHub Repository):** [MBSTU SDG Website](https://rahmanziaur.github.io/MBSTU-SDG-Activities-2026/)
 ---
 
 
