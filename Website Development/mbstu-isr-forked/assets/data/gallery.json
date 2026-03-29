@@ -1,0 +1,74 @@
+[
+  {
+    "src": "public/photos/digital_world.jpg",
+    "alt": "Speaker presenting at an academic event",
+    "caption": "Digital workshop presentation session",
+    "departments": ["CSE", "ICT"]
+  },
+  {
+    "src": "public/photos/outcome.jpg",
+    "alt": "Outcome-based education classroom session",
+    "caption": "Outcome-based education awareness program",
+    "departments": ["CSE", "ICT"]
+  },
+  {
+    "src": "public/photos/cslab.jpg",
+    "alt": "Students attending a computer lab workshop",
+    "caption": "Hands-on student workshop in computer lab",
+    "departments": ["CSE","ICT"]
+  },
+  {
+    "src": "public/photos/cslab2.jpg",
+    "alt": "Students working with laptops in a classroom",
+    "caption": "Coding and software training session",
+    "departments": ["ICT","CSE"]
+  },
+  {
+    "src": "public/photos/cslab4.jpeg",
+    "alt": "Student using lab instrumentation",
+    "caption": "Experimental measurement in electronics lab",
+    "departments": ["TE"]
+  },
+  {
+    "src": "public/photos/drone.jpg",
+    "alt": "Prototype drone built by students",
+    "caption": "Student innovation: drone prototype",
+    "departments": ["CSE", "ICT", "TE"]
+  },
+  {
+    "src": "public/photos/community.jpg",
+    "alt": "Group photo of invited guests and faculty",
+    "caption": "International collaboration and leadership visit",
+    "departments": ["BMB", "PHARMACY"]
+  },
+  {
+    "src": "public/photos/bmb.jpeg",
+    "alt": "Laboratory researchers at work",
+    "caption": "Interdisciplinary laboratory research activities",
+    "departments": ["BMB", "BGE"]
+  },
+  {
+    "src": "public/photos/cslab3.jpg",
+    "alt": "Participants in a computer workstation lab",
+    "caption": "Digital skills and applied research training",
+    "departments": ["TE", "ICT"]
+  },
+  {
+    "src": "public/photos/heatproject.jpeg",
+    "alt": "Team attending HEAT project event",
+    "caption": "HEAT project contract signing ceremony",
+    "departments": ["ICT", "TE"]
+  },
+  {
+    "src": "public/photos/robotics.jpg",
+    "alt": "Student team with robotics competition awards",
+    "caption": "Student success in robotics and tech competitions",
+    "departments": ["CSE", "ICT", "TE"]
+  },
+  {
+    "src": "public/photos/agriAI.jpg",
+    "alt": "Formal institutional meeting photo",
+    "caption": "Institutional partnership and strategic collaboration",
+    "departments": ["PHARMACY", "BGE"]
+  }
+]
