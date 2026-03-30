@@ -1,0 +1,1564 @@
+{
+  "stats": [
+    { "count": "12 Cr", "label": "Out of 23 Cr of Total Fundings" },
+    { "count": "200+", "label": "Publications" },
+    { "count": "100+", "label": "Active Projects" },
+    { "count": "300+", "label": "Researchers" },
+    { "count": "60+", "label": "Funding Sponsor Institutions" },
+    { "count": "50+", "label": "Research Collaborator Countries" }
+  ],
+  
+  "publications": [
+    {
+      "id": "id1",
+      "type": "journal",
+      "title": "Genome-wide identification and characterization of argonaute, dicer-like, and RNA-dependent RNA polymerase gene families in potato (Solanum tuberosum): Advancing RNA interference-based crop enhancement",
+      "authors": "Shuvo MdN.H.; Hassan M.; Musa; Hossain R.; Konak J.N.; Akond Z.; Ahmed F.F. (2026)",
+      "journal": "https://doi.org/10.1371/journal.pone.0339021",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id2",
+      "type": "journal",
+      "title": "AttBiLSTM_DE: enhancing anticancer peptide prediction using word embedding and an optimized attention-based BiLSTM framework",
+      "authors": "Juthy M.J.N.; Mahmud S.M.H.; Hosen M.F.; Aktar M.N.; Goh K.O.M.; Shoombuatong W. (2026)",
+      "journal": "https://doi.org/10.1038/s41598-025-29767-9",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id3",
+      "type": "journal",
+      "title": "Soliton structures and dynamical characteristics of fractional nonlinear waves in the classical Boussinesq framework",
+      "authors": "Rimu N.N.; Islam M.A.; Dey P. (2026)",
+      "journal": "https://doi.org/10.1038/s41598-026-37442-w",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id4",
+      "type": "journal",
+      "title": "Pharmacological evaluation of mangrove plant Rhizophora mucronata (Lam.) grown in the coastal area of Sundarbans",
+      "authors": "Chand Sultana Khatun M.; Muhit Md.A.; Maruf Md.M.H.; Iqbal Md.A.; Rahman S.M.A. (2026)",
+      "journal": "https://doi.org/10.1371/journal.pone.0340646",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id5",
+      "type": "journal",
+      "title": "Machine learning-driven optimization of monolithic gold plasmonic sensors: Achieving ultrahigh sensitivity with interpretable linear models",
+      "authors": "Akter S.; Abdullah H. (2026)",
+      "journal": "https://doi.org/10.1371/journal.pone.0343113",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id6",
+      "type": "journal",
+      "title": "In-silico characterization of deleterious non-synonymous SNPs in the human S1PR1 gene reveals structural instability and altered ligand affinity",
+      "authors": "Biswas S.; Sardar D.; Hossain A.; Hasnat S.; Ramjan A.H.; Nazifa U.K.; Zohora F.-T.; Esha I.J.; Mondal C.; Barik A.; Hoque M.N. (2026)",
+      "journal": "https://doi.org/10.1371/journal.pone.0339370",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id7",
+      "type": "journal",
+      "title": "SIRT7 as a context-dependent biomarker and therapeutic target: Insights from a pan-cancer study",
+      "authors": "Islam K.M.T.; Mahmud S. (2026)",
+      "journal": "https://doi.org/10.1371/journal.pone.0342269",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id8",
+      "type": "journal",
+      "title": "Machine learning assisted malaria detection using photonic crystal fibre optical sensors",
+      "authors": "Abdullah-Al-Shafi M.; Sen S.; Mubassera M. (2026)",
+      "journal": "https://doi.org/10.1038/s41598-026-37709-2",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id9",
+      "type": "journal",
+      "title": "Evaluating diabetes risk: Bayesian hierarchical models and machine learning integration",
+      "authors": "Khan N.M.; Rahman M.M.; Chowdhury M.H. (2026)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2026.e44510",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id10",
+      "type": "journal",
+      "title": "A Review of Battery Storage Technology in Renewable Energy Utilization",
+      "authors": "Khan A.H.; Bahar A.N.; Islam A.; Wahid K. (2026)",
+      "journal": "https://doi.org/10.1007/s13369-025-11038-4",
+      "year": "2026",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id11",
+      "type": "journal",
+      "title": "An AI-powered smart Agribot for detecting locusts in farmlands using IoT and deep learning",
+      "authors": "Al Reshan M.S.; Rahman W.; Mia S.; Talukder M.H.; Rahman M.M.; Shaikh A.; Asuroglu T.; Rasheed J. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-23497-8",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id12",
+      "type": "journal",
+      "title": "Research literacy and its predictors among university students and graduates identified by machine learning and spatial analysis",
+      "authors": "Mamun M.A.; Huraira M.A.; Begum M.; Jitu M.H.I.; Muntashir N.; Khan M.M.; Das P.; Rahman S.; Misma U.Z.; Nath S.; Ikram T.; Wazed R.; Trisha M.K.; Ahamed M.S.; Faruk M.O.; Tisa A.H.; Siddiky A.; Satu S.S.S.D.; Kaium A.; Hasan M.S.; Aktar S.; Hasan M.Z.; Hasan M.M.; Kibria M.; Chowdhury T.B.K.; Das M.K.; Patowary M.A.H.K.; Hasan M.H.; Akter S.; Haque A.; Bethi K.B.; Ferdaus J.; Shil P.C.; Hasan M.E.; ALmerab M.M.; Al-Mamun F.; Roy N.; Gozal D. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-19488-4",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id13",
+      "type": "journal",
+      "title": "Retraction notice to “Quality of life in the COVID-19 outbreak: influence of psychological distress, government strategies, social distancing, and emotional recovery”",
+      "authors": "Khan A.G.; Kamruzzaman M.; Rahman M.N.; Mahmood M.; Uddin M.A. (2025)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2025.e43741",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id14",
+      "type": "journal",
+      "title": "Plastics in Groundwater of Floodplain Aquifers—a Review of Impacts",
+      "authors": "Moniruzzaman M.; Hassan H.B.; Al-Asad H.; Gusyev M. (2025)",
+      "journal": "https://doi.org/10.1007/978-981-96-5047-7_10",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id15",
+      "type": "journal",
+      "title": "An explainable AI-driven deep neural network for accurate breast cancer detection from histopathological and ultrasound images",
+      "authors": "Alom M.R.; Farid F.A.; Rahaman M.A.; Rahman A.; Debnath T.; Miah A.S.M.; Mansor S. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-97718-5",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id16",
+      "type": "journal",
+      "title": "FLPneXAINet: Federated deep learning and explainable AI for improved pneumonia prediction utilizing GAN-augmented chest X-ray data",
+      "authors": "Biswas S.; Mostafiz R.; Uddin M.S.; Uddin M.S. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0324957",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id17",
+      "type": "journal",
+      "title": "Identifying determinants of under-5 mortality in Bangladesh: A machine learning approach with BDHS 2022 data",
+      "authors": "Naznin S.; Uddin M.J.; Kabir A. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0324825",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id18",
+      "type": "journal",
+      "title": "Computational and pharmacophore based study of Camellia sinensis phytochemicals targeting BRAF in melanoma",
+      "authors": "Shuvo M.S.P.; Niaz S.M.R.; Jannat S.; Hossain M.A.; Mashhur N.; Ahmed N.; Sohel M.; Hasan M.I.; Ansari S.A.; Humayoo M.; Rahman M.H.; Islam M.K. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-22320-8",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id19",
+      "type": "journal",
+      "title": "NAVIGATING THE AGRICULTURAL LANDSCAPE: THE IMPACT OF CLIMATE ON BANGLADESH'S FARMING PRACTICES",
+      "authors": "Hasanat M.A.; Bhawmick S.; Hasan M.P.; Roy R.; Islam D. (2025)",
+      "journal": "https://doi.org/10.46281/c27b3q22",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id20",
+      "type": "journal",
+      "title": "Design of an energy efficient approximate BinDCT module in quantum cellular automata",
+      "authors": "Vahabi M.; Rahimi E.; Bahar A.N.; Wahid K.A. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-98493-z",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id21",
+      "type": "journal",
+      "title": "Development of a novel instant soup: Evaluation of organoleptic, physicochemical and nutritive values",
+      "authors": "Islam Md.T.; Huq A.K.O.; Farzana T. (2025)",
+      "journal": "https://doi.org/10.31893/multiscience.2025044",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id22",
+      "type": "journal",
+      "title": "Ripen banana dataset: A comprehensive resource for carbide detection and ripening stage analysis to enhance food quality and agricultural efficiency",
+      "authors": "Alam E.; Islam M.T.; Raka I.Z.; Ritu O.S.; Hossain M.S.; Rahman W.; Khan R. (2025)",
+      "journal": "https://doi.org/10.1016/j.dib.2025.111659",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id23",
+      "type": "journal",
+      "title": "Retraction notice to “The impact of FDI on the agriculture sector: A case study from Bangladesh”",
+      "authors": "Sultana Z.; Sadekin M.N. (2025)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2025.e43083",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id24",
+      "type": "journal",
+      "title": "In silico approaches unveil the mechanism of action of Eclipta prostrata against acute myeloid leukemia",
+      "authors": "Islam K.M.T.; Islam M.M.; Habib J.B.; Sarker S.; Ahmed A.; Sohel M.; Tabassum F.; Sarker S.; Al Ashik S.A.; Khanam R.; Mahmud S. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-18547-0",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id25",
+      "type": "journal",
+      "title": "An explainable and federated deep learning framework for skin cancer diagnosis",
+      "authors": "Biswas S.; Saha S.; Uddin M.S.; Mostafiz R. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0324393",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id26",
+      "type": "journal",
+      "title": "Analyzing and forecasting under-5 mortality trends in Bangladesh using machine learning techniques",
+      "authors": "Naznin S.; Uddin M.J.; Ahmad I.; Kabir A. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0317715",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id27",
+      "type": "journal",
+      "title": "Synthesis of silk fibroin and silver nanoparticles for enhanced functionality in cellulosic textiles",
+      "authors": "Pranto M.A.M.; Kabir M.; Haque M.A.; Hasan M.S.; Saha J.; Rahman M.; Islam T.; Das S.C. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-22602-1",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id28",
+      "type": "journal",
+      "title": "Retraction notice to “Antibacterial activity of seed aqueous extract of Citrus limon (L.) mediated synthesis ZnO NPs: An impact on Zebrafish (Danio rerio) caudal fin development”",
+      "authors": "Sakthivel S.; Dhanapal A.R.; Paulraj L.P.; Gurusamy A.; Venkidasamy B.; Thiruvengadam M.; Govindasamy R.; Shariati M.A.; Bouyahya A.; Zengin G.; Hasan M.M.; Burkov P. (2025)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2025.e42355",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id29",
+      "type": "journal",
+      "title": "A privacy-preserving dependable deep federated learning model for identifying new infections from genome sequences",
+      "authors": "Mehedi S.T.; Abdulrazak L.F.; Ahmed K.; Uddin M.S.; Bui F.M.; Chen L.; Moni M.A.; Al-Zahrani F.A. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-89612-x",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id30",
+      "type": "journal",
+      "title": "Exploring Dolichos lablab compounds as potential inhibitors for fusion (F) protein of human metapneumovirus (HMPV): A systematic computational approach",
+      "authors": "Hossain Md.M.; Apu Md.J.H.; Aziz Md.F.B.A.; Tanjil Md.T.R.; Das L.C.; Kar A.; Evamoni F.Z.; Morshed Md.M. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0332170",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id31",
+      "type": "journal",
+      "title": "Molecular screening and dynamics simulation reveal potential phytocompounds in Swertia chirayita targeting the UspA1 protein of Moraxella catarrhalis for COPD therapy",
+      "authors": "Uddin Md.M.; Chowdhury Md.S.R.; Hossain Md.A.; Ahsan A.; Hossain Md.T.; Barik A.; Hossen Md.A.; Amin Md.F.; Abir R.; Alam M.S.; Rahman Md.H.; Hoque N. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0316275",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id32",
+      "type": "journal",
+      "title": "An innovative blockchain framework for strengthening security and efficiency in banking",
+      "authors": "Ahammad M.S.; Maliha M.; Nila N.E.; Islam M.S. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-25457-8",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id33",
+      "type": "journal",
+      "title": "Computational prediction of high-risk non-synonymous SNPs in human ApoE and their structural impact on amyloid-β interaction in Alzheimer's disease pathogenesis",
+      "authors": "Hossain M.M.; Adhikari J.; Dutta A.; Khandaker A.; Islam S.; Rahman M.M.; Shibly A.Z. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0331339",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id34",
+      "type": "journal",
+      "title": "Fractional order effects on solitary waves and chaotic regimes in the mKdV Burgers equation",
+      "authors": "Islam M.A.; Rimu N.N.; Dey P. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-25340-6",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id35",
+      "type": "journal",
+      "title": "A novel integration of Hodrick–Prescott filter (Hp-filter) and wavelet transform (WT) with optimize support vector machine (PSO-SVM) in predicting solar radiation",
+      "authors": "Pal Shuvo S.; Pal Shibazee S.; Paul G.; Paul Mita M.; Das C.; Malakar K. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-024-82950-2",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id36",
+      "type": "journal",
+      "title": "Retraction notice to \"A systematic review on green synthesis of silver nanoparticles using plants extract and their bio-medical applications\"",
+      "authors": "Akhter M.S.; Rahman M.A.; Ripon R.K.; Mubarak M.; Akter M.; Mahbub S.; Al Mamun F.; Sikder M.T. (2025)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2025.e43993",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id37",
+      "type": "journal",
+      "title": "Computational investigation unveils pathogenic LIG3 non-synonymous mutations and therapeutic targets in acute myeloid leukemia",
+      "authors": "Hossen M.A.; Jahan U.M.S.; Hossain M.A.; Asif K.H.; Rahman A.; Ahmed S.; Uddin M.M.; Amin M.F.; Barik M.A.; Islam M.J.; Kamruzzaman M.; Hasnat S.; Uddin M.N.; Islam T.; Hoque M.N. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0320550",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id38",
+      "type": "journal",
+      "title": "Corrigendum to “Green synthesis of zinc oxide nano particles using Allium cepa L. waste peel extracts and its antioxidant and antibacterial activities”",
+      "authors": "Islam M.F.; Islam S.; Miah M.A.S.; Huq A.K.O.; Saha A.K.; Mou Z.J.; Mondol M.M.H.; Bhuiyan M.N.I. (2025)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2025.e43763",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id39",
+      "type": "journal",
+      "title": "Corrigendum to “Burnout risks in Bangladeshi physicians: A multicenter, cross-sectional study”",
+      "authors": "Rizwan F.; Monjur F.; Rahman M.; Tamanna S.; Khan N.M.; Islam M.R.; Alam S.; Mariyam L. (2025)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2025.e43580",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id40",
+      "type": "journal",
+      "title": "Effect of irrigation on rural transformation and income at the district level in Bangladesh",
+      "authors": "Saha S.; Alam M.J.; Al Abbasi A.A.; Begum I.A.; Rola-Rubzen M.F.; Parikh P.; McKenzie A.M. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0326504",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id41",
+      "type": "journal",
+      "title": "Exploring the sensing properties of Janus ScSTe, TiSTe, and ZrSTe nanosheets for nitrogen based toxic gases via DFT",
+      "authors": "Shawon M.J.I.; Dash B.K.; Rafat A.; Piya A.A.; Shamim S.U.D. (2025)",
+      "journal": "https://doi.org/10.1038/s41598-025-21091-6",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id42",
+      "type": "journal",
+      "title": "A hybrid framework of statistical, machine learning, and explainable AI methods for school dropout prediction",
+      "authors": "Khatun M.R.; Mim M.A.; Tasin Md.M.; Hossain Md.M. (2025)",
+      "journal": "https://doi.org/10.1371/journal.pone.0331917",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id43",
+      "type": "journal",
+      "title": "Oryza sativa Baby Boom1 converts the developmental fate of rice egg cells from gametic into somatic status",
+      "authors": "Masuo S.-N.; Akter N.; Koshimizu S.; Rattanawong K.; Kitta T.; Taki Y.; Kinoshita A.; Satoh A.; Takasaki H.; Ikeda M.; Oshima Y.; Mitsuda N.; Ohme-Takagi M.; Yano K.; Okamoto T. (2025)",
+      "journal": "https://doi.org/10.1016/j.isci.2025.113621",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id44",
+      "type": "journal",
+      "title": "Computational network analysis of two popular skin cancers provides insights into the molecular mechanisms and reveals common therapeutic targets",
+      "authors": "Mahmud M.S.; Paul B.K.; Hasan M.R.; Islam K.M.T.; Mahmud I.; Mahmud S. (2025)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2025.e41688",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id45",
+      "type": "journal",
+      "title": "Evaluation of Gingerbread Spoilage Factors: Study of Fungal Causative Agents and Tracing of Their Environmental Sources",
+      "authors": "Rahman M.N.; Islam M.; Hasan M.R.; Alim M.A.; Begum R.; Li S.; Samapundo S.; Eeckhout M.; Devlieghere F. (2025)",
+      "journal": "https://doi.org/10.1002/appl.70039",
+      "year": "2025",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id46",
+      "type": "journal",
+      "title": "Dual core silver-coated plasmonic sensor modeling with machine learning",
+      "authors": "Saha C.; Haque F.; Islam N.; Hossain M.M.; Easin Arafat M.; Yousuf M.A.; Rahman M.M. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e38175",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id47",
+      "type": "journal",
+      "title": "Paddy insect identification using deep features with lion optimization algorithm",
+      "authors": "Elmagzoub M.A.; Rahman W.; Roksana K.; Islam M.T.; Sadi A.H.M.S.; Rahman M.M.; Rajab A.; Rajab K.; Shaikh A. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e32400",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id48",
+      "type": "journal",
+      "title": "Investigating the role of hypothetical protein (AAB33144.1) in HIV-1 virus pathogenicity: A comparative study with FDA-Approved inhibitor compounds through In silico analysis and molecular docking",
+      "authors": "Hossain M.I.; Asha A.T.; Hossain M.A.; Mahmud S.; Chowdhury K.; Mohiuddin R.B.; Nahar N.; Sarker S.; Napis S.; Hossain M.S.; Mohiuddin A.K.M. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e23183",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id49",
+      "type": "journal",
+      "title": "A robust deep learning approach for identification of RNA 5-methyluridine sites",
+      "authors": "Shaon M.S.H.; Karim T.; Ali M.M.; Ahmed K.; Bui F.M.; Chen L.; Moni M.A. (2024)",
+      "journal": "https://doi.org/10.1038/s41598-024-76148-9",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id50",
+      "type": "journal",
+      "title": "XAI-FusionNet: Diabetic foot ulcer detection based on multi-scale feature fusion with explainable artificial intelligence",
+      "authors": "Biswas S.; Mostafiz R.; Uddin M.S.; Paul B.K. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e31228",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id51",
+      "type": "journal",
+      "title": "Impact of vitamin E in improving comfort, moisture management and mechanical properties of flame retardant treated cotton fabric",
+      "authors": "Moula A.T.M.G.; Mamun M.A.A.; Khan M.H.K.; Hosen M.D.; Siddiquee M.A.B. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e23834",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id52",
+      "type": "journal",
+      "title": "Computational approach for identifying immunogenic epitopes and optimizing peptide vaccine through in-silico cloning against Mycoplasma genitalium",
+      "authors": "Akter A.; Ananna N.F.; Ullah H.; Islam S.; Al Amin M.; Kibria K.M.K.; Mahmud S. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e28223",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id53",
+      "type": "journal",
+      "title": "Advancing thyroid care: An accurate trustworthy diagnostics system with interpretable AI and hybrid machine learning techniques",
+      "authors": "Sutradhar A.; Akter S.; Shamrat F.M.J.M.; Ghosh P.; Zhou X.; Idris M.Y.I.B.; Ahmed K.; Moni M.A. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e36556",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id54",
+      "type": "journal",
+      "title": "BDHusk: A comprehensive dataset of different husk species images as a component of cattle feed from different regions of Bangladesh",
+      "authors": "Jahin I.I.; Khatun M.; Islam M.T.; Rahman M.W.; Raka I.Z. (2024)",
+      "journal": "https://doi.org/10.1016/j.dib.2023.110018",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id55",
+      "type": "journal",
+      "title": "Deep-WET: a deep learning-based approach for predicting DNA-binding proteins using word embedding techniques with weighted features",
+      "authors": "Mahmud S.M.H.; Goh K.O.M.; Hosen M.F.; Nandi D.; Shoombuatong W. (2024)",
+      "journal": "https://doi.org/10.1038/s41598-024-52653-9",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id56",
+      "type": "journal",
+      "title": "Fortified edible oils in Bangladesh: A study on vitamin A fortification and physicochemical properties",
+      "authors": "Begum R.; Hasan M.; Akter S.; Rahman M. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e25489",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id57",
+      "type": "journal",
+      "title": "Green synthesis of zinc oxide nano particles using Allium cepa L. waste peel extracts and its antioxidant and antibacterial activities",
+      "authors": "Islam M.F.; islam S.; Miah M.A.S.; Huq A.K.O.; Saha A.K.; Mou Z.J.; Mondol M.M.H.; Bhuiyan M.N.I. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e25430",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id58",
+      "type": "journal",
+      "title": "Fabrication of sustainable functional cotton fabric with silk sericin and chitosan for protective textiles",
+      "authors": "Mondal M.I.H.; Sarker S.C.; Ahmed F.; Pervez M.N.; Saha J. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e39250",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id59",
+      "type": "journal",
+      "title": "Green economic growth in BRIC and CIVETS countries: The effects of trade openness and sustainable development goals",
+      "authors": "Halim M.A.; Moudud-Ul-Huq S. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e30148",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id60",
+      "type": "journal",
+      "title": "Evaluation of THz wave transmission performance in TOPAS-based heptagonal photonic crystal fiber (He-PCF)",
+      "authors": "Hossain M.S.; Hossen R.; Al-Amin M.; Ahmed S.; Sen S. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e25622",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id61",
+      "type": "journal",
+      "title": "PollenNet: A novel architecture for high precision pollen grain classification through deep learning and explainable AI",
+      "authors": "Shamrat F.M.J.M.; Idna Idris M.Y.; Zhou X.; Khalid M.; Sharmin S.; Sharmin Z.; Ahmed K.; Moni M.A. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e38596",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id62",
+      "type": "journal",
+      "title": "Genetic insights into the connection between pulmonary TB and non-communicable diseases: An integrated analysis of shared genes and potential treatment targets",
+      "authors": "Mahjabeen A.; Hasan Md.Z.; Rahman Md.T.; Islam Md.A.; Khan R.T.; Kaiser M.S. (2024)",
+      "journal": "https://doi.org/10.1371/journal.pone.0312072",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id63",
+      "type": "journal",
+      "title": "The prospect of spray pyrolyzed pure, Mn-doped, and Zn-doped nickel oxide thin films as TCO material",
+      "authors": "Begum M.E.; Islam M.B.; Ara M.H.; Doris A.; Kaiyum M.A.; Rasadujjaman M. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e24244",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id64",
+      "type": "journal",
+      "title": "Internet of medical things and blockchain-enabled patient-centric agent through SDN for remote patient monitoring in 5G network",
+      "authors": "Rahman A.; Wadud M.A.H.; Islam M.J.; Kundu D.; Bhuiyan T.M.A.-U.-H.; Muhammad G.; Ali Z. (2024)",
+      "journal": "https://doi.org/10.1038/s41598-024-55662-w",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id65",
+      "type": "journal",
+      "title": "Data analysis of thermal performance and irreversibility of convective flow in porous-wavy channel having triangular obstacle under magnetic field effect",
+      "authors": "Akhter R.; Ali M.M.; Alim M.A. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e34580",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id66",
+      "type": "journal",
+      "title": "Effect of natural thickener on printing performance over cotton woven fabric",
+      "authors": "Islam S.; Akter N.; Repon M.R.; Al Mamun M.A. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e31224",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id67",
+      "type": "journal",
+      "title": "Hypolipidemic effect and modulation of hepatic enzymes by different edible oils in obese Wistar rats",
+      "authors": "Alim M.A.; Mumu T.J.; Tamanna U.S.; Khan M.M.; Miah M.I.; Islam M.S.; Jesmin Z.A.; Khan T.; Hasan M.R.; Alam M.J.; Murtaja Reza Linkon K.M.; Rahman M.N.; Begum R.; Prodhan U.K. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e25880",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id68",
+      "type": "journal",
+      "title": "WaterHyacinth: A comprehensive image dataset of various Water hyacinth species from different regions of Bangladesh",
+      "authors": "Kabir H.; Juthi T.; Islam M.T.; Rahman M.W.; Khan R. (2024)",
+      "journal": "https://doi.org/10.1016/j.dib.2023.109872",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id69",
+      "type": "journal",
+      "title": "MLAFP-XN: Leveraging neural network model for development of antifungal peptide identification tool",
+      "authors": "Sultan M.F.; Shaon M.S.H.; Karim T.; Ali M.M.; Hasan M.Z.; Ahmed K.; Bui F.M.; Chen L.; Dhasarathan V.; Moni M.A. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e37820",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id70",
+      "type": "journal",
+      "title": "SeasVeg: An image dataset of Bangladeshi seasonal vegetables",
+      "authors": "Ahmad Bappy M.T.; Hasan Rabbi K.M.; Ahmed M.J.; Rahman W.; Zeesan M.; Sadi A.H.M.S.; Rahman M.M. (2024)",
+      "journal": "https://doi.org/10.1016/j.dib.2024.110564",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id71",
+      "type": "journal",
+      "title": "Unveiling protoplanetary structure equations: Semi-analytical solutions via the homotopy analysis method",
+      "authors": "Chandra Paul G.; Tauhida; Nuruzzaman M.; Hossain M.Z.; Chandra Barman M.; Kumar D. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e34831",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id72",
+      "type": "journal",
+      "title": "Exploring Bryophyllum pinnatum compounds as potential inhibitors for Vespula vulgaris allergen proteins: A systematic computational approach",
+      "authors": "Islam S.; Shibly A.Z. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e34713",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id73",
+      "type": "journal",
+      "title": "Isolation of chromium resistant bacteria from tannery waste and assessment of their chromium reducing capabilities – A Bioremediation Approach",
+      "authors": "Khanam R.; Al Ashik S.A.; Suriea U.; Mahmud S. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e27821",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id74",
+      "type": "journal",
+      "title": "Unraveling the potential effects of non-synonymous single nucleotide polymorphisms (nsSNPs) on the Protein structure and function of the human SLC30A8 gene on type 2 diabetes and colorectal cancer: An In silico approach",
+      "authors": "Uddin M.M.; Hossain M.T.; Hossain M.A.; Ahsan A.; Shamim K.H.; Hossen M.A.; Rahman M.S.; Rahman M.H.; Ahmed K.; Bui F.M.; Al-Zahrani F.A. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e37280",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id75",
+      "type": "journal",
+      "title": "No detectable fitness cost of infection by cell-fusing agent virus in Aedes aegypti mosquitoes",
+      "authors": "Suzuki Y.; Suzuki T.; Miura F.; Reyes J.I.L.; Asin I.C.A.; Mitsunari W.; Uddin M.M.; Sekii Y.; Watanabe K. (2024)",
+      "journal": "https://doi.org/10.1098/rsos.231373",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id76",
+      "type": "journal",
+      "title": "BDWaste: A comprehensive image dataset of digestible and indigestible waste in Bangladesh",
+      "authors": "Rahman W.; Akter M.; Sultana N.; Farjana M.; Uddin A.; Mazrur M.B.; Rahman M.M. (2024)",
+      "journal": "https://doi.org/10.1016/j.dib.2024.110153",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id77",
+      "type": "journal",
+      "title": "Corrigendum to “Enrichment, sources, and distributions of toxic elements in the farming land's topsoil near a heavily industrialized area of central Bangladesh, and associated risks assessment”",
+      "authors": "Moni F.N.; Miazi M.S.A.; Kabir M.H.; Shammi R.S.; Islam M.S.; Islam M.S.; Sarker M.E.; Hasan Khan M.M.; Ahammed M.S.; Bakar Siddique M.A.; Kormoker T. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e24013",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id78",
+      "type": "journal",
+      "title": "Quantitative analysis of β-ODAP neurotoxin among different varieties of grass pea (Lathyrus sativus L.) flour: A comparative study",
+      "authors": "Miah M.K.; Alim M.A.; Haque M.A.; Begum R. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e37746",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id79",
+      "type": "journal",
+      "title": "AMP-RNNpro: a two-stage approach for identification of antimicrobials using probabilistic features",
+      "authors": "Shaon M.S.H.; Karim T.; Sultan M.F.; Ali M.M.; Ahmed K.; Hasan M.Z.; Moustafa A.; Bui F.M.; Al-Zahrani F.A. (2024)",
+      "journal": "https://doi.org/10.1038/s41598-024-63461-6",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id80",
+      "type": "journal",
+      "title": "Effects of competition and ownership on the simultaneous relationship between bank risk and capital: Evidence from an emerging economy of Bangladesh",
+      "authors": "Zheng C.; Chowdhury Md.M.; Gupta A.D.; Islam Md.N. (2024)",
+      "journal": "https://doi.org/10.1371/journal.pone.0311428",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id81",
+      "type": "journal",
+      "title": "Therapeutic potential of clinically proven natural products in the management of dementia",
+      "authors": "Ansari F.; Sohel M.; Haidary M.M.H.; Mostaq M.S.; Akter S.; Nahar A.; Labony F.Z.; Ahmed A.; Hasan M.S.; Babu M.H.; Amin M.N. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e27233",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id82",
+      "type": "journal",
+      "title": "A systematic review on green synthesis of silver nanoparticles using plants extract and their bio-medical applications",
+      "authors": "Akhter M.S.; Rahman M.A.; Ripon R.K.; Mubarak M.; Akter M.; Mahbub S.; Al Mamun F.; Sikder M.T. (2024)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2024.e29766",
+      "year": "2024",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id83",
+      "type": "journal",
+      "title": "Impacts of seasonal variations and wastewater discharge on river quality and associated human health risks: A case of northwest Dhaka, Bangladesh",
+      "authors": "Hassan H.B.; Moniruzzaman M.; Majumder R.K.; Ahmed F.; Quaiyum Bhuiyan M.A.; Ahsan M.A.; Al-Asad H. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e18171",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id84",
+      "type": "journal",
+      "title": "Fire retardant properties enhancement of cotton twill fabric using pumpkin (Cucurbita maxima) extract",
+      "authors": "Shikder A.A.R.; Mamun M.A.A.; Islam T.; Khan M.H.K.; Uddin M.Z. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e14806",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id85",
+      "type": "journal",
+      "title": "Burnout risks in Bangladeshi Physicians: A multicenter, cross-sectional study",
+      "authors": "Rizwan F.; Monjur F.; Rahman M.; Tamanna S.; Khan N.M.; Islam M.R.; Alam S.; Mariyam L. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e22386",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id86",
+      "type": "journal",
+      "title": "USAGE OF ADDITIVE MANUFACTURING IN THE AUTOMOTIVE INDUSTRY: A REVIEW",
+      "authors": "Nayeem A.M.; Hossain M.M.N. (2023)",
+      "journal": "https://doi.org/10.46281/bjmsr.v8i1.2135",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id87",
+      "type": "journal",
+      "title": "Bioinformatics and In silico approaches to identify novel biomarkers and key pathways for cancers that are linked to the progression of female infertility: A comprehensive approach for drug discovery",
+      "authors": "Arju Hossain Md.; Sohel Md.; Rahman Md.H.; Hasan Md.I.; Sharif Khan Md.; Al Amin Md.; Zahidul Islam Md.; Peng S. (2023)",
+      "journal": "https://doi.org/10.1371/journal.pone.0265746",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id88",
+      "type": "journal",
+      "title": "Lasia spinosa (L.) thw. attenuates chemically induced behavioral disorders in experimental and computational models",
+      "authors": "Reza A.S.M.A.; Sakib M.A.; Nasrin M.S.; Khan J.; Khan M.F.; Hossen M.A.; Ali M.H.; Haque M.A. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e16754",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id89",
+      "type": "journal",
+      "title": "BOO-ST and CBCEC: two novel hybrid machine learning methods aim to reduce the mortality of heart failure patients",
+      "authors": "Sutradhar A.; Al Rafi M.; Shamrat F.M.J.M.; Ghosh P.; Das S.; Islam M.A.; Ahmed K.; Zhou X.; Azad A.K.M.; Alyami S.A.; Moni M.A. (2023)",
+      "journal": "https://doi.org/10.1038/s41598-023-48486-7",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id90",
+      "type": "journal",
+      "title": "Mpropred: A machine learning (ML) driven Web-App for bioactivity prediction of SARS-CoV-2 main protease (Mpro) antagonists",
+      "authors": "Ferdous N.; Reza M.N.; Hossain M.U.; Mahmud S.; Napis S.; Chowdhury K.; Mohiuddin A.K.M. (2023)",
+      "journal": "https://doi.org/10.1371/journal.pone.0287179",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id91",
+      "type": "journal",
+      "title": "Quality attributes of the developed banana flour: Effects of drying methods",
+      "authors": "Alam M.; Biswas M.; Hasan M.M.; Hossain M.F.; Zahid M.A.; Al-Reza M.S.; Islam T. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e18312",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id92",
+      "type": "journal",
+      "title": "Effects of microplastic and heavy metals on coral reefs: A new window for analytical research",
+      "authors": "Islam M.S.; Islam A.R.M.T.; Ismail Z.; Ahmed M.K.; Ali M.M.; Kabir M.H.; Ibrahim K.A.; Al-Qthanin R.N.; Idris A.M. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e22692",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id93",
+      "type": "journal",
+      "title": "The impact of FDI on the agriculture sector: A case study from Bangladesh",
+      "authors": "Sultana Z.; Sadekin M.N. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e22983",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id94",
+      "type": "journal",
+      "title": "Ensemble classification of integrated CT scan datasets in detecting COVID-19 using feature fusion from contourlet transform and CNN",
+      "authors": "Nur-A-Alam M.; Nasir M.K.; Ahsan M.; Based M.A.; Haider J.; Kowalski M. (2023)",
+      "journal": "https://doi.org/10.1038/s41598-023-47183-9",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id95",
+      "type": "journal",
+      "title": "Genome-wide identification, classification, and characterization of lectin gene superfamily in sweet orange (Citrus sinensis L.)",
+      "authors": "Ahmed F.F.; Dola F.S.; Zohra F.T.; Rahman S.M.; Konak J.N.; Sarkar M.A.R. (2023)",
+      "journal": "https://doi.org/10.1371/journal.pone.0294233",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id96",
+      "type": "journal",
+      "title": "Physicochemical reports of gliclazide-carplex solid dispersions and tablets prepared with directly compressible co-processed excipients",
+      "authors": "Paul S.; Asha K.F.; Alam I.Z.; Ali M.A.; Al-Mamun M.E.; Rahman M.B.M. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e22899",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id97",
+      "type": "journal",
+      "title": "Relationships between total reserve and financial indicators of Bangladesh: Application of generalized additive model",
+      "authors": "Salan M.S.A.; Naznin M.; Pandit B.; Sumon I.H.; Hossain M.M.H.; Kabir M.A.; Majumder A.K. (2023)",
+      "journal": "https://doi.org/10.1371/journal.pone.0284179",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id98",
+      "type": "journal",
+      "title": "In-silico prediction of highly promising natural fungicides against the destructive blast fungus Magnaporthe oryzae",
+      "authors": "Al Mamun Khan M.A.; Ahsan A.; Khan M.A.; Sanjana J.M.; Biswas S.; Saleh M.A.; Gupta D.R.; Hoque M.N.; Sakif T.I.; Rahman M.M.; Islam T. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e15113",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id99",
+      "type": "journal",
+      "title": "Enrichment, sources, and distributions of toxic elements in the farming land's topsoil near a heavily industrialized area of central Bangladesh, and associated risks assessment",
+      "authors": "Moni F.N.; Miazi M.S.A.; Kabir M.H.; Shammi R.S.; Islam M.S.; Islam M.S.; Sarker M.E.; Khan M.M.H.; Ahammed M.S.; Siddique M.A.B.; Kormoker T. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e15078",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id100",
+      "type": "journal",
+      "title": "A green approach of vat dyeing of cotton fabric with natural reducing agents",
+      "authors": "Shrwardi M.H.S.; Das S.C.; Mamun M.A.A. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e19663",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id101",
+      "type": "journal",
+      "title": "Exploring the potential of mahogany extract as a natural dye for the coloration of jute fabric",
+      "authors": "Abu Bakar M.; Islam M.I.; Mia R.; Ahmed T.; Mahmud S.T.; Toki G.F.I.; Haque M.A. (2023)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2023.e19464",
+      "year": "2023",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id102",
+      "type": "journal",
+      "title": "Effects of institutional quality on foreign direct investment inflow in lower-middle income countries",
+      "authors": "Saha S.; Sadekin M.N.; Saha S.K. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e10828",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id103",
+      "type": "journal",
+      "title": "Vitamin D supplementation for the prevention of total cancer incidence and mortality: An updated systematic review and meta-analysis",
+      "authors": "Cheema H.A.; Fatima M.; Shahid A.; Bouaddi O.; Elgenidy A.; Rehman A.U.; Oussama Kacimi S.E.; Hasan M.M.; Lee K.Y. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e11290",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id104",
+      "type": "journal",
+      "title": "Mental health of students amidst the COVID-19 pandemic: An empirical study",
+      "authors": "Alam M.A.; Uddin A.I.; Uddin M.A.; Begum S.; Nahar H.; Raihan T.; Khan A.G. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e09111",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id105",
+      "type": "journal",
+      "title": "Highly potent natural fungicides identified in silico against the cereal killer fungus Magnaporthe oryzae",
+      "authors": "Khan M.A.; Al Mamun Khan M.A.; Mahfuz A.M.U.B.; Sanjana J.M.; Ahsan A.; Gupta D.R.; Hoque M.N.; Islam T. (2022)",
+      "journal": "https://doi.org/10.1038/s41598-022-22217-w",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id106",
+      "type": "journal",
+      "title": "An effective method in investigating structures of polytropic protoplanets formed via gravitational instability",
+      "authors": "Paul G.C.; Barman M.C.; Rahman H. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e10394",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id107",
+      "type": "journal",
+      "title": "Factors associated with depression and determining dimensions of job satisfaction among physicians in Bangladesh",
+      "authors": "Islam M.N.; Dasgupta D.P.; Sultana N.; Yesmine F.; Asaduzzaman M.; Rabeya M.R.; Ahmed K. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e10589",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id108",
+      "type": "journal",
+      "title": "Corrigendum to “The effect of taxation on sustainable development goals: evidence from emerging countries”",
+      "authors": "Halim M.A.; Rahman M.M. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e12279",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id109",
+      "type": "journal",
+      "title": "Antibacterial activity of seed aqueous extract of Citrus limon (L.) mediated synthesis ZnO NPs: An impact on Zebrafish (Danio rerio) caudal fin development",
+      "authors": "Sakthivel S.; Dhanapal A.R.; Paulraj L.P.; Gurusamy A.; Venkidasamy B.; Thiruvengadam M.; Govindasamy R.; Shariati M.A.; Bouyahya A.; Zengin G.; Hasan M.M.; Burkov P. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e10406",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id110",
+      "type": "journal",
+      "title": "Chemotherapeutic potential of hesperetin for cancer treatment, with mechanistic insights: A comprehensive review",
+      "authors": "Sohel M.; Sultana H.; Sultana T.; Al Amin M.; Aktar S.; Ali M.C.; Rahim Z.B.; Hossain M.A.; Al Mamun A.; Amin M.N.; Dash R. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e08815",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id111",
+      "type": "journal",
+      "title": "Measuring the impact of climate change on potato production in Bangladesh using Bayesian Hierarchical Spatial-temporal modeling",
+      "authors": "Salan M.S.A.; Hossain M.M.; Sumon I.H.; Rahman M.M.; Kabir M.A.; Majumder A.K. (2022)",
+      "journal": "https://doi.org/10.1371/journal.pone.0277933",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id112",
+      "type": "journal",
+      "title": "Effect of dye bath pH in dyeing of cotton knitted fabric with reactive dye (Remazol Yellow RR) in exhaust method: impact on color strength, chromatic values and fastness properties",
+      "authors": "Moula A.T.M.G.; Hosen M.D.; Siddiquee M.A.B.; Momin M.A.; Kaisar Z.; Mamun M.A.A.; Islam M.A. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e11246",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id113",
+      "type": "journal",
+      "title": "Nutritional and in vitro antioxidant activity analyses of formulated soymilk dessert",
+      "authors": "Hossen M.M.; Uddin M.N.; Islam Khan M.S.; Islam S.M.H.; Hasanuzzaman M.; Bithi U.H.; Abu Tareq M.; Hassan M.N.; Sayeed A.; Robbani R.B.; Mitra K. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e11267",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id114",
+      "type": "journal",
+      "title": "Ultra-Wideband, Polarization-Independent, Wide-Angle Multilayer Swastika-Shaped Metamaterial Solar Energy Absorber with Absorption Prediction using Machine Learning",
+      "authors": "Patel S.K.; Surve J.; Jadeja R.; Katkar V.; Parmar J.; Ahmed K. (2022)",
+      "journal": "https://doi.org/10.1002/adts.202100604",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id115",
+      "type": "journal",
+      "title": "Abetting host immune response by inhibiting rhipicephalus sanguineus Evasin-1: An in silico approach",
+      "authors": "Castrosanto M.A.; Mukerjee N.; Ramos A.R.; Maitra S.; Manuben J.J.P.; Das P.; Malik S.; Hasan M.M.; Alexiou A.; Dey A.; Kamal M.A.; Aljarba N.H.; Alkahtani S.; Ghosh A. (2022)",
+      "journal": "https://doi.org/10.1371/journal.pone.0271401",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id116",
+      "type": "journal",
+      "title": "Pathogen-driven gene expression patterns lead to a novel approach to the identification of common therapeutic targets",
+      "authors": "Hossain M.U.; Ferdous N.; Reza M.N.; Ahammad I.; Tiernan Z.; Wang Y.; O’Hanlon F.; Wu Z.; Sarker S.; Mohiuddin A.K.M.; Das K.C.; Keya C.A.; Salimullah M. (2022)",
+      "journal": "https://doi.org/10.1038/s41598-022-25102-8",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id117",
+      "type": "journal",
+      "title": "Systems biology and in silico-based analysis of PCOS revealed the risk of metabolic disorders",
+      "authors": "Hossain M.A.; Al Ashik S.A.; Mahin M.R.; Al Amin M.; Rahman M.H.; Khan M.A.; Emran A.A. (2022)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2022.e12480",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id118",
+      "type": "journal",
+      "title": "Four-layer ConvNet to facial emotion recognition with minimal epochs and the significance of data diversity",
+      "authors": "Debnath T.; Reza M.M.; Rahman A.; Beheshti A.; Band S.S.; Alinejad-Rokny H. (2022)",
+      "journal": "https://doi.org/10.1038/s41598-022-11173-0",
+      "year": "2022",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id119",
+      "type": "journal",
+      "title": "Pathogenic genetic variants from highly connected cancer susceptibility genes confer the loss of structural stability",
+      "authors": "Reza M.N.; Ferdous N.; Emon M.T.H.; Islam M.S.; Mohiuddin A.K.M.; Hossain M.U. (2021)",
+      "journal": "https://doi.org/10.1038/s41598-021-98547-y",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id120",
+      "type": "journal",
+      "title": "Machine learning and data mining methods in early detection of stomach cancer risk",
+      "authors": "Rejaul Islam Royel Md.; Ajmanur Jaman Md.; Al Masud F.; Ahmed A.; Muyeed A.; Ahmed K. (2021)",
+      "journal": "https://doi.org/10.6180/jase.202102_24(1).0001",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id121",
+      "type": "journal",
+      "title": "Immunoinformatics and molecular dynamics approaches: Next generation vaccine design against West Nile virus",
+      "authors": "Khan M.T.; Islam R.; Jerin T.J.; Mahmud A.; Khatun S.; Kobir A.; Islam M.N.; Akter A.; Mondal S.I. (2021)",
+      "journal": "https://doi.org/10.1371/journal.pone.0253393",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id122",
+      "type": "journal",
+      "title": "Does ‘COVID-19 phobia’ stimulate career anxiety?: Experience from a developing country",
+      "authors": "Mahmud M.S.; Rahman M.M.; Masud-Ul-Hasan M.; Islam M.A. (2021)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2021.e06346",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id123",
+      "type": "journal",
+      "title": "Risk factors of stomach cancer bangladesh perspective: A case-control study",
+      "authors": "Royel Md.R.I.; Hassan M.; Al Masud F.; Jaman Md.A.; Ahmed A.; Muyeed A. (2021)",
+      "journal": "https://doi.org/10.6180/jase.202108_24(4).0020",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id124",
+      "type": "journal",
+      "title": "Are older adults of Rohingya community (Forcibly Displaced Myanmar Nationals or FDMNs) in Bangladesh fearful of COVID-19? Findings from a cross-sectional study",
+      "authors": "Mistry S.K.; Ali A.R.M.M.; Akther F.; Peprah P.; Reza S.; Prova S.; Yadav U.N. (2021)",
+      "journal": "https://doi.org/10.1371/journal.pone.0253648",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id125",
+      "type": "journal",
+      "title": "Quality of life in the COVID-19 outbreak: influence of psychological distress, government strategies, social distancing, and emotional recovery",
+      "authors": "Khan A.G.; Kamruzzaman M.; Rahman M.N.; Mahmood M.; Uddin M.A. (2021)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2021.e06407",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id126",
+      "type": "journal",
+      "title": "Evaluation of knowledge, awareness and attitudes towards breast cancer risk factors and early detection among females in Bangladesh: A hospital based cross-sectional study",
+      "authors": "Alam N.E.; Islam M.S.; Ullah H.; Molla M.T.; Shifat S.K.; Akter S.; Aktar S.; Khatun M.M.; Ali M.R.; Sen T.C.; Chowdhury K.; Pervin R.; Mohiuddin A.K.M. (2021)",
+      "journal": "https://doi.org/10.1371/journal.pone.0257271",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id127",
+      "type": "journal",
+      "title": "Solving protoplanetary structure equations using Adomian decomposition method",
+      "authors": "Paul G.C.; Khatun S.; Nuruzzaman M.; Kumar D.; Ali M.E.; Bilkis F.; Barman M.C. (2021)",
+      "journal": "https://doi.org/10.1016/j.heliyon.2021.e08213",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id128",
+      "type": "journal",
+      "title": "Tumor innervation and clinical outcome in pancreatic cancer",
+      "authors": "Ferdoushi A.; Griffin N.; Marsland M.; Xu X.; Faulkner S.; Gao F.; Liu H.; King S.J.; Denham J.W.; van Helden D.F.; Jobling P.; Jiang C.C.; Hondermarck H. (2021)",
+      "journal": "https://doi.org/10.1038/s41598-021-86831-w",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id129",
+      "type": "journal",
+      "title": "Genome-wide identification of DCL, AGO and RDR gene families and their associated functional regulatory elements analyses in banana (Musa acuminata)",
+      "authors": "Ahmed F.F.; Hossen M.I.; Sarkar M.A.R.; Konak J.N.; Zohra F.T.; Shoyeb M.; Mondal S. (2021)",
+      "journal": "https://doi.org/10.1371/journal.pone.0256873",
+      "year": "2021",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id130",
+      "type": "journal",
+      "title": "Optimization of extraction of antioxidant polysaccharide from Pleurotus ostreatus (Jacq.) P. Kumm and its cytotoxic activity against murine lymphoid cancer cell line",
+      "authors": "Uddin Pk M.; Sayful Islam M.; Pervin R.; Dutta S.; Talukder R.I.; Rahman M. (2019)",
+      "journal": "https://doi.org/10.1371/journal.pone.0209371",
+      "year": "2019",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id131",
+      "type": "journal",
+      "title": "Pathway based therapeutic targets identification and development of an interactive database campynibase of campylobacter jejuni rm1221 through non-redundant protein dataset",
+      "authors": "Hossain M.U.; Omar T.M.; Alam I.; Das K.C.; Mohiuddin A.K.M.; Keya C.A.; Salimullah Md. (2018)",
+      "journal": "https://doi.org/10.1371/journal.pone.0198170",
+      "year": "2018",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id132",
+      "type": "journal",
+      "title": "Dataset of surface plasmon resonance based on photonic crystal fiber for chemical sensing applications",
+      "authors": "Khalek M.A.; Chakma S.; Paul B.K.; Ahmed K. (2018)",
+      "journal": "https://doi.org/10.1016/j.dib.2018.05.026",
+      "year": "2018",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id133",
+      "type": "journal",
+      "title": "Characterization of a serologically atypical Shigella flexneri Z isolated from diarrheal patients in Bangladesh and a proposed serological scheme for Shigella flexneri",
+      "authors": "Shahnaij M.; Latif H.A.; Azmi I.J.; Amin M.B.; Luna S.J.; Islam M.A.; Talukder K.A. (2018)",
+      "journal": "https://doi.org/10.1371/journal.pone.0202704",
+      "year": "2018",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id134",
+      "type": "journal",
+      "title": "Dataset on significant risk factors for Type 1 Diabetes: A Bangladeshi perspective",
+      "authors": "Asaduzzaman S.; Masud F.A.; Bhuiyan T.; Ahmed K.; Paul B.K.; Rahman S.A.M.M. (2018)",
+      "journal": "https://doi.org/10.1016/j.dib.2018.10.018",
+      "year": "2018",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id135",
+      "type": "journal",
+      "title": "Average output polarization dataset for signifying the temperature influence for QCA designed reversible logic circuits",
+      "authors": "Abdullah-Al-Shafi M.; Bahar A.N.; Bhuiyan M.M.R.; Shamim S.M.; Ahmed K. (2018)",
+      "journal": "https://doi.org/10.1016/j.dib.2018.05.009",
+      "year": "2018",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id136",
+      "type": "journal",
+      "title": "Phytomonitoring of brick kiln induced air pollution at Konabari of Bangladesh",
+      "authors": "Tusher T.R.; Akter S.; Ashraf Z.; Humayun Kabir Md.; Nurealam Siddiqui Md. (2018)",
+      "journal": "https://doi.org/10.22452/mjs.vol37no1.4",
+      "year": "2018",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id137",
+      "type": "journal",
+      "title": "Single-mode spiral shape fiber based liquid sensor with ultra-high sensitivity and ultra-low loss: Design and analysis",
+      "authors": "Islam M.I.; Ahmed K.; Islam M.S.; Paul B.K.; Sen S.; Chowdhury S.; Asaduzzaman S.; Bahar A.N.; Miah M.B.A. (2017)",
+      "journal": "https://doi.org/10.1016/j.kijoms.2017.05.005",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id138",
+      "type": "journal",
+      "title": "A novel reversible logic gate and its systematic approach to implement cost-efficient arithmetic logic circuits using QCA",
+      "authors": "Ahmad P.Z.; Quadri S.M.K.; Ahmad F.; Bahar A.N.; Wani G.M.; Tantary S.M. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2017.10.011",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id139",
+      "type": "journal",
+      "title": "Design and numerical analysis: Effect of core and cladding area on hybrid hexagonal microstructure optical fiber in environment pollution sensing applications",
+      "authors": "Ahmed K.; Islam M.S.; Paul B.K. (2017)",
+      "journal": "https://doi.org/10.1016/j.kijoms.2017.02.001",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id140",
+      "type": "journal",
+      "title": "Dataset on photonic crystal fiber based chemical sensor",
+      "authors": "Ahmed K.; Paul B.K.; Chowdhury S.; Islam M.S.; Sen S.; Islam M.I.; Asaduzzaman S.; Bahar A.N.; Miah M.B.A. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2017.03.048",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id141",
+      "type": "journal",
+      "title": "Numerical dataset for analyzing the performance of a highly efficient ultrathin film CdTe solar cell",
+      "authors": "Sultana R.S.; Bahar A.N.; Asaduzzaman M.; Bhuiyan M.M.R.; Ahmed K. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2017.04.015",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id142",
+      "type": "journal",
+      "title": "Energy dissipation dataset for reversible logic gates in quantum dot-cellular automata",
+      "authors": "Bahar A.N.; Rahman M.M.; Nahid N.M.; Hassan M.K. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2016.12.050",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id143",
+      "type": "journal",
+      "title": "Modeling and performance analysis dataset of a CIGS solar cell with ZnS buffer layer",
+      "authors": "Hosen M.B.; Bahar A.N.; Ali M.K.; Asaduzzaman M. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2017.07.054",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id144",
+      "type": "journal",
+      "title": "Power analysis dataset for QCA based multiplexer circuits",
+      "authors": "Abdullah-Al-Shafi M. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2017.03.001",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id145",
+      "type": "journal",
+      "title": "Dataset demonstrating the modeling of a high performance Cu(In,Ga)Se2 absorber based thin film photovoltaic cell",
+      "authors": "Asaduzzaman M.; Bahar A.N.; Bhuiyan M.M.R. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2017.02.020",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id146",
+      "type": "journal",
+      "title": "Dataset demonstrating the temperature effect on average output polarization for QCA based reversible logic gates",
+      "authors": "Hassan M.K.; Nahid N.M.; Bahar A.N.; Bhuiyan M.M.R.; Abdullah-Al-Shafi M.; Ahmed K. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2017.06.058",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id147",
+      "type": "journal",
+      "title": "Dataset representing the effect of indirect band gap region of Cd-free AlGaAs buffer layer in Cu(In,Ga)Se photovoltaic cell",
+      "authors": "Shachi S.I.; Bahar A.N. (2017)",
+      "journal": "https://doi.org/10.1016/j.dib.2017.08.017",
+      "year": "2017",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id148",
+      "type": "journal",
+      "title": "Design and implementation of an efficient single layer five input majority voter gate in quantum-dot cellular automata",
+      "authors": "Bahar A.N.; Waheed S. (2016)",
+      "journal": "https://doi.org/10.1186/s40064-016-2220-7",
+      "year": "2016",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id149",
+      "type": "journal",
+      "title": "Hybrid photonic crystal fiber in chemical sensing",
+      "authors": "Asaduzzaman S.; Ahmed K.; Bhuiyan T.; Farah T. (2016)",
+      "journal": "https://doi.org/10.1186/s40064-016-2415-y",
+      "year": "2016",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id150",
+      "type": "journal",
+      "title": "An investigation into the effects of band gap and doping concentration on Cu(In,Ga)Se2 solar cell efficiency",
+      "authors": "Asaduzzaman M.; Hasan M.; Bahar A.N. (2016)",
+      "journal": "https://doi.org/10.1186/s40064-016-2256-8",
+      "year": "2016",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id151",
+      "type": "journal",
+      "title": "A new approach of presenting reversible logic gate in nanoscale",
+      "authors": "Bahar A.N.; Waheed S.; Hossain N. (2015)",
+      "journal": "https://doi.org/10.1186/s40064-015-0928-4",
+      "year": "2015",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id152",
+      "type": "journal",
+      "title": "Back-bending phenomena in even-even 110-118Te isotopes",
+      "authors": "Hossain I.; Hussein M.; Mansour S.A.; Islam J. (2014)",
+      "journal": "https://doi.org/10.4038/jnsfsr.v42i4.7732",
+      "year": "2014",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id153",
+      "type": "journal",
+      "title": "Exact traveling wave solutions of modified KdV- Zakharov-Kuznetsov equation and viscous Burgers equation",
+      "authors": "Islam M.H.; Khan K.; Akbar M.A.; Salam M.A. (2014)",
+      "journal": "https://doi.org/10.1186/2193-1801-3-105",
+      "year": "2014",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id154",
+      "type": "journal",
+      "title": "Establishment of HLA-DR4 transgenic mice for the identification of CD4 + T cell epitopes of tumor associated antigens",
+      "authors": "Yatsuda J.; Irie A.; Harada K.; Michibata Y.; Tsukamoto H.; Senju S.; Tomita Y.; Yuno A.; Hirayama M.; Sayem M.A.; Takeda N.; Shibuya I.; Sogo S.; Fujiki F.; Sugiyama H.; Eto M.; Nishimura Y. (2013)",
+      "journal": "https://doi.org/10.1371/journal.pone.0084908",
+      "year": "2013",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    },
+    {
+      "id": "id155",
+      "type": "journal",
+      "title": "A review on electronic and optical properties of silicon nanowire and its different growth techniques",
+      "authors": "Hasan M.; Huq M.F.; Mahmood Z.H. (2013)",
+      "journal": "https://doi.org/10.1186/2193-1801-2-151",
+      "year": "2013",
+      "badge2": "DOI",
+      "badge2Class": "badge-doi"
+    }
+  ]
+
+}

@@ -427,21 +427,38 @@ async function loadOutputs() {
   }
 
   window.allPublications = data.publications;
-  renderPublications('all');
+  window.outputState = {
+    filter: 'all',
+    currentPage: 1,
+    itemsPerPage: 10
+  };
+  renderPublications();
 
   // Attach event listeners to tabs
   document.querySelectorAll('.output-tab').forEach(tab => {
     tab.addEventListener('click', (e) => {
       document.querySelectorAll('.output-tab').forEach(t => t.classList.remove('active'));
       e.target.classList.add('active');
-      renderPublications(e.target.getAttribute('data-filter'));
+      if (!window.outputState) {
+        window.outputState = { filter: 'all', currentPage: 1, itemsPerPage: 10 };
+      }
+      window.outputState.filter = e.target.getAttribute('data-filter') || 'all';
+      window.outputState.currentPage = 1;
+      renderPublications();
     });
   });
 }
 
-function renderPublications(filter) {
+function renderPublications() {
   const pubList = document.getElementById('pub-list');
   if(!pubList || !window.allPublications) return;
+
+  if (!window.outputState) {
+    window.outputState = { filter: 'all', currentPage: 1, itemsPerPage: 10 };
+  }
+
+  const filter = window.outputState.filter || 'all';
+  const itemsPerPage = Number(window.outputState.itemsPerPage) || 10;
 
   const escapeHtml = (value) => String(value ?? '')
     .replace(/&/g, '&amp;')
@@ -466,9 +483,16 @@ function renderPublications(filter) {
     ? window.allPublications 
     : window.allPublications.filter(p => p.type === filter);
 
+  const totalPages = Math.max(1, Math.ceil(filtered.length / itemsPerPage));
+  const currentPage = Math.min(Math.max(1, window.outputState.currentPage || 1), totalPages);
+  window.outputState.currentPage = currentPage;
+
+  const start = (currentPage - 1) * itemsPerPage;
+  const visible = filtered.slice(start, start + itemsPerPage);
+
   pubList.innerHTML = `
     <div class="pub-list-wrap">
-      ${filtered.map(pub => `
+      ${visible.length ? visible.map(pub => `
         <div class="pub-card">
           <div class="pub-title">${pub.title}</div>
           <div class="pub-authors">${pub.authors}</div>
@@ -479,9 +503,33 @@ function renderPublications(filter) {
             ${pub.badge2 ? `<span class="pub-badge ${pub.badge2Class || ''}">${pub.badge2}</span>` : ''}
           </div>
         </div>
-      `).join('')}
+      `).join('') : '<p class="section-sub text-center">No publications found for this category.</p>'}
+    </div>
+    <div class="output-pagination" aria-label="Publication pagination">
+      <button type="button" class="output-page-btn" id="pub-prev" ${currentPage === 1 ? 'disabled' : ''}>Prev</button>
+      <span class="output-page-indicator">Page ${currentPage} / ${totalPages}</span>
+      <button type="button" class="output-page-btn" id="pub-next" ${currentPage === totalPages ? 'disabled' : ''}>Next</button>
     </div>
   `;
+
+  const prevBtn = document.getElementById('pub-prev');
+  const nextBtn = document.getElementById('pub-next');
+
+  prevBtn?.addEventListener('click', () => {
+    if (window.outputState.currentPage > 1) {
+      window.outputState.currentPage -= 1;
+      renderPublications();
+      pubList.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+  });
+
+  nextBtn?.addEventListener('click', () => {
+    if (window.outputState.currentPage < totalPages) {
+      window.outputState.currentPage += 1;
+      renderPublications();
+      pubList.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+  });
 }
 
 async function loadGallery() {

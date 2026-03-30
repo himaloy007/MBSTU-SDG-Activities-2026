@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "name": "Bangladesh",
+    "location": "South Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/bangladesh.png"
+  },
+  {
+    "id": 2,
+    "name": "United States",
+    "location": "North America",
+    "type": "Collaborating Country",
+    "icon": "public/collab/usa.png"
+  },
+  {
+    "id": 3,
+    "name": "Australia",
+    "location": "Oceania",
+    "type": "Collaborating Country",
+    "icon": "public/collab/australia.png"
+  },
+  {
+    "id": 4,
+    "name": "Saudi Arabia",
+    "location": "Middle East",
+    "type": "Collaborating Country",
+    "icon": "public/collab/ksa.png"
+  },
+  {
+    "id": 5,
+    "name": "China",
+    "location": "East Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/china.png"
+  },
+  {
+    "id": 6,
+    "name": "Canada",
+    "location": "North America",
+    "type": "Collaborating Country",
+    "icon": "public/collab/canada.png"
+  },
+  {
+    "id": 7,
+    "name": "Malaysia",
+    "location": "Southeast Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/malaysia.png"
+  },
+  {
+    "id": 8,
+    "name": "India",
+    "location": "South Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/india.png"
+  },
+  {
+    "id": 9,
+    "name": "United Kingdom",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/uk.png"
+  },
+  {
+    "id": 10,
+    "name": "Japan",
+    "location": "East Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/japan.png"
+  },
+  {
+    "id": 11,
+    "name": "Turkey",
+    "location": "Middle East",
+    "type": "Collaborating Country",
+    "icon": "public/collab/turkey.png"
+  },
+  {
+    "id": 12,
+    "name": "South Korea",
+    "location": "East Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/south-korea.png"
+  },
+  {
+    "id": 13,
+    "name": "Morocco",
+    "location": "Africa",
+    "type": "Collaborating Country",
+    "icon": "public/collab/morocco.png"
+  },
+  {
+    "id": 14,
+    "name": "Hong Kong",
+    "location": "East Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/hong-kong.png"
+  },
+  {
+    "id": 15,
+    "name": "Thailand",
+    "location": "Southeast Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/thailand.png"
+  },
+  {
+    "id": 16,
+    "name": "Taiwan",
+    "location": "East Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/taiwan.png"
+  },
+  {
+    "id": 17,
+    "name": "Russian Federation",
+    "location": "Europe/Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/russia.png"
+  },
+  {
+    "id": 18,
+    "name": "New Zealand",
+    "location": "Oceania",
+    "type": "Collaborating Country",
+    "icon": "public/collab/new-zealand.png"
+  },
+  {
+    "id": 19,
+    "name": "Netherlands",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/netherlands.png"
+  },
+  {
+    "id": 20,
+    "name": "Italy",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/italy.png"
+  },
+  {
+    "id": 21,
+    "name": "Finland",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/finland.png"
+  },
+  {
+    "id": 22,
+    "name": "Egypt",
+    "location": "Africa",
+    "type": "Collaborating Country",
+    "icon": "public/collab/egypt.png"
+  },
+  {
+    "id": 23,
+    "name": "Sweden",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/sweden.png"
+  },
+  {
+    "id": 24,
+    "name": "South Africa",
+    "location": "Africa",
+    "type": "Collaborating Country",
+    "icon": "public/collab/south-africa.png"
+  },
+  {
+    "id": 25,
+    "name": "Singapore",
+    "location": "Southeast Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/singapore.png"
+  },
+  {
+    "id": 26,
+    "name": "Poland",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/poland.png"
+  },
+  {
+    "id": 27,
+    "name": "Philippines",
+    "location": "Southeast Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/philippine.png"
+  },
+  {
+    "id": 28,
+    "name": "Pakistan",
+    "location": "South Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/pakistan.png"
+  },
+  {
+    "id": 29,
+    "name": "Norway",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/norway.png"
+  },
+  {
+    "id": 30,
+    "name": "Nepal",
+    "location": "South Asia",
+    "type": "Collaborating Country",
+    "icon": "public/collab/nepal.png"
+  },
+  {
+    "id": 31,
+    "name": "Lithuania",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/lithuania.png"
+  },
+  {
+    "id": 32,
+    "name": "Jordan",
+    "location": "Middle East",
+    "type": "Collaborating Country",
+    "icon": "public/collab/jordan.png"
+  },
+  {
+    "id": 33,
+    "name": "Ireland",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/ireland.png"
+  },
+  {
+    "id": 34,
+    "name": "Iraq",
+    "location": "Middle East",
+    "type": "Collaborating Country",
+    "icon": "public/collab/iraq.png"
+  },
+  {
+    "id": 35,
+    "name": "Iran",
+    "location": "Middle East",
+    "type": "Collaborating Country",
+    "icon": "public/collab/iran.png"
+  },
+  {
+    "id": 36,
+    "name": "Hungary",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/hungary.png"
+  },
+  {
+    "id": 37,
+    "name": "Belgium",
+    "location": "Europe",
+    "type": "Collaborating Country",
+    "icon": "public/collab/belgium.png"
+  },
+  {
+    "id": 38,
+    "name": "Algeria",
+    "location": "Africa",
+    "type": "Collaborating Country",
+    "icon": "public/collab/algeria.png"
+  }
+]

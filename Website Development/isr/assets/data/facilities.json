@@ -61,7 +61,7 @@
     "meta": ["Research Facility", "Advanced Materials"],
     "icon": "fas fa-atom",
     "department": "TE",
-    "departments": ["TE", "ICT"],
+    "departments": ["TE", "PHYSICS","CHEMISTRY"],
     "image": "public/photos/cslab3.jpg",
     "shortDescription": "Engineering-focused facility for testing materials performance in electronics, energy, and textile applications."
   },
@@ -73,7 +73,7 @@
     "icon": "fas fa-paw",
     "department": "Veterinary Medicine and Animal Science",
     "departments": ["Veterinary Medicine and Animal Science"],
-    "image": "public/photos/community.jpg",
+    "image": "public/photos/material.jpeg",
     "shortDescription": "Regulated preclinical research setting for in vivo model studies, therapeutic validation, and safety assessment."
   }
 ]
