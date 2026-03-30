@@ -9,7 +9,7 @@
   {
     "id": 2,
     "title": "Water Quality Monitoring Network",
-    "description": "IoT-enabled sensor network deployed across 12 rivers in Tangail district, providing real-time data on water contamination and flood risk.",
+    "description": "Deployment of IoT-enabled sensor network across 12 rivers in Tangail district, providing real-time data on water contamination and flood risk.",
     "tags": ["SDG 6", "SDG 11"],
     "icon": "public/icons/water.png"
   },
